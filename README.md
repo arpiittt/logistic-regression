@@ -1,5 +1,5 @@
 
-# 🧠 Logistic Regression: Binary Classification (Task 4)
+# 🧠 Logistic Regression: Binary Classification 
 
 ## 📌 Objective
 Build a binary classifier using **Logistic Regression** to predict whether a tumor is **malignant (1)** or **benign (0)** using the **Breast Cancer Wisconsin dataset**.
